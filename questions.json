@@ -1,0 +1,790 @@
+{
+      "Biologia": [
+        {
+          "questao": 1,
+          "texto_base": "Desde a proposição da teoria de seleção natural por Darwin, os seres vivos nunca mais foram olhados da mesma forma. No que diz respeito à reprodução de anfíbios anuros, os cientistas já descreveram diferentes padrões reprodutivos, como os exemplificados a seguir:\n\nEspécie 1 - As fêmeas produzem cerca de 5.000 gametas, que são fecundados na água, em lagoas temporárias de estação chuvosa. Todo o desenvolvimento embrionário, do ovo à metamorfose, ocorre nesse ambiente, independente dos pais.\n\nEspécie 2 - As fêmeas produzem aproximadamente 200 gametas, que são depositados em poças próximas a corpos d'água. Os embriões são vigiados pelos machos durante boa parte do seu desenvolvimento.\n\nEspécie 3 - As fêmeas produzem por volta de 20 gametas, que são fecundados sobre a superfície das folhas de plantas cujos galhos estão dispostos acima da superfície de corpos d'água e aí se desenvolvem até a eclosão.\n\nEspécie 4 - As fêmeas produzem poucos gametas que, quando fecundados, são “abocanhados” pelos machos. Os embriões se desenvolvem no interior do saco vocal do macho até a metamorfose, quando saem através da boca do pai.\n\nOs padrões descritos evidenciam que",
+          "alternativas": {
+            "a": "as fêmeas influenciam o comportamento dos machos.",
+            "b": "o cuidado parental é necessário para o desenvolvimento.",
+            "c": "o grau de evolução determina o comportamento reprodutivo.",
+            "d": "o sucesso reprodutivo pode ser garantido por estratégias diferentes.",
+            "e": "o ambiente induz modificação na produção do número de gametas femininos."
+          },
+          "resposta_correta": "d",
+          "tem_imagem": false
+        },
+        {
+          "questao": 2,
+          "texto_base": "Considere uma comunidade marinha que compreende muitos ancestrais dos filos de animais modernos. Considere ainda que uma adaptação proficiente foi introduzida em uma única espécie. O resultado da adaptação seria um rápido aumento tanto na abundância relativa da espécie quanto no espaço explorado por ela. As interações bióticas podem ser consideradas agentes de seleção, e a interação das comunidades de espécies em seus próprios ambientes seletivos é uma fonte de diversificação. O rápido aumento da espécie seria seguido por uma desaceleração da proliferação de novos tipos ecológicos. A tragédia dos comuns, quando os interesses ou ações de uma espécie são prejudiciais à comunidade como um todo, deve ser evitada para o sucesso da comunidade marinha.",
+          "alternativas": {
+            "a": "A população da espécie com a adaptação aumentaria infinitamente, pois os recursos são ilimitados e haveria aumento das interações bióticas interespecíficas.",
+            "b": "A espécie com a adaptação seria um agente de seleção de outras espécies pelo uso de um recurso comum, impulsionando a evolução dos concorrentes.",
+            "c": "A proliferação da espécie com a adaptação seria motivada pela saturação ecológica e pela exaustão de recursos pelas outras espécies.",
+            "d": "A comunidade marinha permanecerá inalterada se a espécie com a nova adaptação apresentar abundantes interações bióticas interespecíficas."
+          },
+          "resposta_correta": "b",
+          "tem_imagem": false
+        },
+        {
+          "questao": 3,
+          "texto_base": "O esquema representa, de maneira bastante simplificada, uma das possíveis hipóteses de relação de parentesco entre grupos animais, assinalados pelo nome comum de alguns de seus representantes. Na base do esquema, a característica que une todos em um mesmo grupo é a deuterostomia. Identifique quais seriam as características I, II, III, IV, V que justificariam os respectivos grupos.",
+          "alternativas": {
+            "a": "I‐notocorda; II‐pulmão; III‐âmnio; IV‐pelo; V‐ovo com casca.",
+            "b": "I‐escamas; II‐encéfalo; III‐pulmão; IV‐glândulas mamárias; V‐âmnio.",
+            "c": "I‐mandíbula; II‐4 membros locomotores; III‐pulmão; IV‐ventrículo subdividido em 2 câmaras; V‐ovo com casca.",
+            "d": "I‐notocorda; II‐4 membros locomotores; III‐pulmão; IV‐glândulas mamárias; V‐pena.",
+            "e": "I‐âmnio; II‐pulmão; III‐mandíbula; IV‐ventrículo subdividido em 2 câmaras; V‐escama."
+          },
+          "resposta_correta": "d",
+          "tem_imagem": true
+        },
+        {
+          "questao": 4,
+          "texto_base": "O mapa a seguir mostra duas áreas oceânicas, A e B. Um estudo mostrou que na localidade A são encontradas sete (7) espécies de camarões-pistola. Na localidade B são encontradas outras sete (7) espécies, sendo que cada espécie do local A tem uma espécie-irmã correspondente no local B (espécies-irmãs são espécies originadas de um mesmo ancestral comum recente). É correto afirmar que",
+          "alternativas": {
+            "a": "o canal do Panamá permitiu que camarões-pistola migrassem de A para B, adaptando-se ao novo ambiente, diferenciando-se e originando novas espécies semelhantes às do lado A.",
+            "b": "vulcões expeliram substâncias mutagênicas durante o Terciário, o que aumentou a variabilidade genética dos camarões-pistola, originando espécies-irmãs nas áreas oceânicas A e B.",
+            "c": "o istmo do Panamá interpôs uma barreira geográfica, formando dois grupos isolados para cada espécie ancestral, que puderam então se diferenciar, originando espécies-irmãs nos oceanos A e B.",
+            "d": "o impacto de um asteroide no final do Cretáceo levou a uma extinção em massa, fornecendo as condições para a radiação adaptativa dos camarões-pistola, com consequente formação de espécies-irmãs."
+          },
+          "resposta_correta": "c",
+          "tem_imagem": true
+        },
+        {
+          "questao": 5,
+          "texto_base": "O cladograma abaixo representa relações evolutivas entre membros da Superfamília Hominoidea, onde se observa que",
+          "alternativas": {
+            "a": "homens e gibões (Hylobatidae) não possuem ancestral comum.",
+            "b": "homens, gorilas (Gorilla) e orangotangos (Pongo) pertencem a famílias diferentes.",
+            "c": "homens, gibões e chimpanzés (Pan) possuem um ancestral comum.",
+            "d": "homens, orangotangos (Pongo) e gibões (Hylobatidae) são primatas pertencentes à mesma família.",
+            "e": "homens e gorilas têm o ancestral comum mais recente com os gibões."
+          },
+          "resposta_correta": "c",
+          "tem_imagem": true
+        },
+        {
+          "questao": 6,
+          "texto_base": "Darwin, em viagem às Ilhas Galápagos, observou que os tentilhões apresentavam bicos com formatos diferentes em cada ilha, de acordo com o tipo de alimentação disponível. Lamarck, ao explicar que o pescoço da girafa teria esticado para colher folhas e frutos no alto das árvores, elaborou ideias importantes sobre a evolução dos seres vivos.\n\nO texto aponta que uma ideia comum às teorias da evolução, propostas por Darwin e por Lamarck, refere-se à interação entre os organismos e seus ambientes, que é denominada de",
+          "alternativas": {
+            "a": "mutação.",
+            "b": "adaptação.",
+            "c": "seleção natural.",
+            "d": "recombinação gênica.",
+            "e": "variabilidade genética."
+          },
+          "resposta_correta": "b",
+          "tem_imagem": false
+        },
+        {
+          "questao": 7,
+          "texto_base": "Certa planta apresenta variabilidade no formato e na espessura das folhas: há indivíduos que possuem folhas largas e carnosas, e outros, folhas largas e finas; existem também indivíduos que têm folhas estreitas e carnosas, e outros com folhas estreitas e finas. Essas características são determinadas geneticamente. As variantes dos genes responsáveis pela variabilidade dessas características da folha originaram-se por",
+          "alternativas": {
+            "a": "seleção natural.",
+            "b": "mutação.",
+            "c": "recombinação genética.",
+            "d": "adaptação.",
+            "e": "isolamento geográfico."
+          },
+          "resposta_correta": "b",
+          "tem_imagem": false
+        },
+        {
+          "questao": 8,
+          "texto_base": "A árvore filogenética representa uma hipótese evolutiva para a família Hominidae, na qual a sigla “m.a.” significa “milhões de anos atrás”. As ilustrações representam, da esquerda para a direita, o orangotango, o gorila, o ser humano, o chimpanzé e o bonobo.",
+          "alternativas": {
+            "a": "Gorila e bonobo.",
+            "b": "Gorila e chimpanzé.",
+            "c": "Gorila e orangotango.",
+            "d": "Chimpanzé e bonobo.",
+            "e": "Bonobo e orangotango."
+          },
+          "resposta_correta": "d",
+          "tem_imagem": true
+        },
+        {
+          "questao": 9,
+          "texto_base": "Olhos pouco desenvolvidos e ausência de pigmentação externa são algumas das características comuns a diversos organismos que habitam exclusivamente cavernas. Dentre esses organismos, encontram-se espécies de peixes, anfíbios, crustáceos, aracnídeos, insetos e anelídeos. Em relação às características mencionadas, é correto afirmar que:",
+          "alternativas": {
+            "a": "O ambiente escuro da caverna induz a ocorrência de mutações que tornam os organismos albinos e cegos, características que seriam transmitidas para as gerações futuras.",
+            "b": "Os indivíduos que habitam cavernas escuras não utilizam a visão e não precisam de pigmentação; por isso, seus olhos atrofiam e sua pele perde pigmentos ao longo da vida.",
+            "c": "As características típicas de todos os animais de caverna surgiram no ancestral comum e exclusivo desses animais e, portanto, indicam proximidade filogenética.",
+            "d": "A perda de pigmentação e a perda de visão nesses animais são características adaptativas selecionadas pelo ambiente escuro das cavernas.",
+            "e": "A ausência de luz nas cavernas bloqueia a expressão dos genes relacionados à pigmentação e ao desenvolvimento ocular."
+          },
+          "resposta_correta": "d",
+          "tem_imagem": false
+        },
+        {
+          "questao": 10,
+          "texto_base": "Os resultados de uma pesquisa realizada na USP revelam que a araucária, o pinheiro brasileiro, produz substâncias antioxidantes e fotoprotetoras. Uma das autoras do estudo considera que, possivelmente, essa característica esteja relacionada ao ambiente com intensa radiação UV em que a espécie surgiu há cerca de 200 milhões de anos. Com base na Teoria Sintética da Evolução, é correto afirmar que",
+          "alternativas": {
+            "a": "essas substâncias surgiram para evitar que as plantas sofressem a ação danosa da radiação UV.",
+            "b": "a radiação UV provocou mutações nas folhas da araucária, que passaram a produzir tais substâncias.",
+            "c": "a radiação UV atuou como fator de seleção, de maneira que plantas sem tais substâncias eram mais suscetíveis à morte.",
+            "d": "a exposição constante à radiação UV induziu os indivíduos de araucária a produzirem substâncias de defesa contra tal radiação.",
+            "e": "a araucária é um exemplo típico da finalidade da evolução, que é a produção de indivíduos mais fortes e adaptados a qualquer ambiente."
+          },
+          "resposta_correta": "c",
+          "tem_imagem": false
+        },
+        {
+          "questao": 11,
+          "texto_base": "As plantas vasculares com sementes são divididas em dois grupos principais: gimnospermas e angiospermas. Nas gimnospermas, como o pinheiro-do-paraná, as sementes são expostas. Já nas angiospermas, como o feijão, as sementes são protegidas dentro de frutos. Sobre essas plantas, é correto afirmar que:",
+          "alternativas": {
+            "a": "Ambos os grupos realizam fotossíntese, mas apenas as gimnospermas formam frutos.",
+            "b": "As angiospermas apresentam sementes nuas, enquanto as gimnospermas apresentam sementes envoltas por frutos.",
+            "c": "Ambos os grupos apresentam vasos condutores de seiva e sementes protegidas por frutos.",
+            "d": "As angiospermas possuem flores e frutos, enquanto as gimnospermas não produzem frutos nem flores.",
+            "e": "As gimnospermas são mais evoluídas do que as angiospermas por apresentarem sementes expostas."
+          },
+          "resposta_correta": "d",
+          "tem_imagem": false
+        },
+        {
+          "questao": 12,
+          "texto_base": "A febre amarela é uma doença infecciosa grave causada por vírus e transmitida por mosquitos. Existem dois tipos de febre amarela: a silvestre e a urbana. Sobre essa doença, é correto afirmar que:",
+          "alternativas": {
+            "a": "O principal vetor urbano da febre amarela é o mosquito Aedes aegypti.",
+            "b": "A febre amarela é causada por uma bactéria transmitida por pernilongos.",
+            "c": "A forma silvestre da doença é transmitida apenas entre macacos.",
+            "d": "A vacinação é obrigatória apenas em áreas urbanas onde há casos confirmados.",
+            "e": "Pessoas que já tiveram dengue estão imunes à febre amarela."
+          },
+          "resposta_correta": "a",
+          "tem_imagem": false
+        }
+      ],
+      "Química": [
+        {
+          "questao": 1,
+          "texto_base": "O biodiesel é uma alternativa aos combustíveis fósseis por ser renovável e menos poluente. Ele pode ser obtido por meio da reação entre um óleo vegetal e um álcool, na presença de um catalisador, formando ésteres (biodiesel) e glicerol.\n\nA reação que representa essa transformação é conhecida como:",
+          "alternativas": {
+            "a": "esterificação.",
+            "b": "saponificação.",
+            "c": "transesterificação.",
+            "d": "oxidação.",
+            "e": "adição."
+          },
+          "resposta_correta": "c",
+          "tem_imagem": false
+        },
+        {
+          "questao": 2,
+          "texto_base": "O etanol, utilizado como combustível, pode ser obtido pela fermentação da glicose, conforme a equação:\nC₆H₁₂O₆ → 2 C₂H₅OH + 2 CO₂\nCom base nessa equação, é correto afirmar que:",
+          "alternativas": {
+            "a": "A fermentação da glicose é uma reação de combustão completa.",
+            "b": "O etanol é um subproduto da respiração aeróbica da glicose.",
+            "c": "O dióxido de carbono é o único produto da fermentação.",
+            "d": "A fermentação da glicose produz substâncias energéticas e gás.",
+            "e": "A glicose sofre hidrólise na presença de oxigênio, formando etanol."
+          },
+          "resposta_correta": "d",
+          "tem_imagem": false
+        },
+        {
+          "questao": 3,
+          "texto_base": "O ácido acético (CH₃COOH) é um ácido fraco, presente no vinagre. Ao ser dissolvido em água, ele estabelece um equilíbrio entre as formas ionizadas e não ionizadas.\n\nConsiderando essa propriedade, o ácido acético em solução aquosa apresenta um comportamento:",
+          "alternativas": {
+            "a": "neutralizante.",
+            "b": "oxidante.",
+            "c": "fortemente iônico.",
+            "d": "de eletrólito fraco.",
+            "e": "de eletrólito forte."
+          },
+          "resposta_correta": "d",
+          "tem_imagem": false
+        },
+        {
+          "questao": 4,
+          "texto_base": "Um estudante utilizou uma solução de fenolftaleína em um experimento e observou que a solução ficou rosa ao adicionar uma substância desconhecida. A cor rosa indica que a solução ficou básica.\n\nA substância adicionada provavelmente possui caráter:",
+          "alternativas": {
+            "a": "ácido.",
+            "b": "básico.",
+            "c": "neutro.",
+            "d": "anfótero.",
+            "e": "salino."
+          },
+          "resposta_correta": "b",
+          "tem_imagem": false
+        },
+        {
+          "questao": 5,
+          "texto_base": "O carbono é capaz de formar cadeias longas e ramificadas, característica que permite a existência de milhões de compostos orgânicos.\n\nEssa propriedade é denominada:",
+          "alternativas": {
+            "a": "isomeria.",
+            "b": "hibridização.",
+            "c": "aromaticidade.",
+            "d": "alotropia.",
+            "e": "catenação."
+          },
+          "resposta_correta": "e",
+          "tem_imagem": false
+        },
+        {
+          "questao": 6,
+          "texto_base": "O cloreto de sódio (NaCl) é um sal utilizado na alimentação. Em solução aquosa, ele conduz corrente elétrica.\n\nEsse comportamento ocorre porque, na água, o NaCl:",
+          "alternativas": {
+            "a": "sofre combustão.",
+            "b": "sofre ionização.",
+            "c": "sofre dissociação.",
+            "d": "se decompõe em íons positivos.",
+            "e": "reage com o oxigênio formando gás."
+          },
+          "resposta_correta": "c",
+          "tem_imagem": false
+        },
+        {
+          "questao": 7,
+          "texto_base": "A ferrugem que aparece em superfícies metálicas é resultado de uma reação de oxirredução envolvendo ferro, água e oxigênio.\n\nO processo químico de formação da ferrugem é classificado como:",
+          "alternativas": {
+            "a": "neutralização.",
+            "b": "oxidação.",
+            "c": "combustão incompleta.",
+            "d": "reação endotérmica.",
+            "e": "fotossíntese."
+          },
+          "resposta_correta": "b",
+          "tem_imagem": false
+        },
+        {
+          "questao": 8,
+          "texto_base": "A água é considerada um solvente universal por sua capacidade de dissolver uma grande variedade de substâncias polares.\n\nEssa característica é devida à:",
+          "alternativas": {
+            "a": "alta massa molar da água.",
+            "b": "estrutura apolar da molécula de água.",
+            "c": "presença de pontes de hidrogênio.",
+            "d": "capacidade de formar compostos iônicos.",
+            "e": "ação enzimática das moléculas de água."
+          },
+          "resposta_correta": "c",
+          "tem_imagem": false
+        },
+        {
+          "questao": 9,
+          "texto_base": "Durante uma aula prática, um professor aqueceu uma substância que mudou do estado sólido para o líquido sem alteração de temperatura.\n\nEssa mudança de estado é chamada de:",
+          "alternativas": {
+            "a": "sublimação.",
+            "b": "vaporização.",
+            "c": "solidificação.",
+            "d": "fusão.",
+            "e": "liquefação."
+          },
+          "resposta_correta": "d",
+          "tem_imagem": false
+        },
+        {
+          "questao": 10,
+          "texto_base": "Os gases ideais seguem leis específicas, como a Lei de Boyle, que relaciona pressão e volume a temperatura constante.\n\nSegundo essa lei, se a pressão sobre um gás aumenta, seu volume:",
+          "alternativas": {
+            "a": "aumenta exponencialmente.",
+            "b": "permanece constante.",
+            "c": "aumenta linearmente.",
+            "d": "diminui.",
+            "e": "dobra."
+          },
+          "resposta_correta": "d",
+          "tem_imagem": false
+        },
+        {
+          "questao": 11,
+          "texto_base": "Uma solução aquosa de ácido clorídrico (HCl) possui pH = 1. Ao adicionar hidróxido de sódio (NaOH), o pH aumenta até 7.\n\nEsse processo é uma reação de:",
+          "alternativas": {
+            "a": "oxidação.",
+            "b": "neutralização.",
+            "c": "redução.",
+            "d": "decomposição.",
+            "e": "ionização."
+          },
+          "resposta_correta": "b",
+          "tem_imagem": false
+        },
+        {
+          "questao": 12,
+          "texto_base": "A gasolina é uma mistura de hidrocarbonetos. Quando queimada em motores, gera energia, mas também poluentes como CO, CO₂ e NOₓ.\n\nUma das estratégias para reduzir a emissão desses poluentes é:",
+          "alternativas": {
+            "a": "diminuir o uso de etanol como aditivo.",
+            "b": "usar motores a diesel em veículos leves.",
+            "c": "adicionar chumbo tetraetila à gasolina.",
+            "d": "utilizar catalisadores nos escapamentos.",
+            "e": "aumentar a temperatura de combustão."
+          },
+          "resposta_correta": "d",
+          "tem_imagem": false
+        }
+      ],
+      "Geografia": [
+        {
+          "questao": 1,
+          "texto_base": "A urbanização acelerada em países subdesenvolvidos trouxe diversos desafios sociais e ambientais. Um dos principais problemas associados à urbanização não planejada é:",
+          "alternativas": {
+            "a": "a expansão do setor agrícola nos centros urbanos.",
+            "b": "o crescimento ordenado das periferias.",
+            "c": "a redução das taxas de natalidade.",
+            "d": "a segregação socioespacial e a formação de favelas.",
+            "e": "a diminuição do desemprego nas cidades."
+          },
+          "resposta_correta": "d",
+          "tem_imagem": false
+        },
+        {
+          "questao": 2,
+          "texto_base": "A desertificação é um processo de degradação ambiental que afeta principalmente regiões semiáridas.\n\nEsse fenômeno está relacionado principalmente à:",
+          "alternativas": {
+            "a": "construção de usinas hidrelétricas.",
+            "b": "exploração de petróleo em águas profundas.",
+            "c": "prática agrícola inadequada e desmatamento.",
+            "d": "formação de áreas de manguezal.",
+            "e": "erosão provocada por geleiras."
+          },
+          "resposta_correta": "c",
+          "tem_imagem": false
+        },
+        {
+          "questao": 3,
+          "texto_base": "O Aquífero Guarani é uma das maiores reservas subterrâneas de água doce do mundo, abrangendo vários países sul-americanos.\n\nEsse aquífero localiza-se principalmente em:",
+          "alternativas": {
+            "a": "Brasil, Argentina, Paraguai e Uruguai.",
+            "b": "Chile, Bolívia, Peru e Colômbia.",
+            "c": "Venezuela, Equador, Brasil e Argentina.",
+            "d": "Brasil, Peru, Colômbia e Equador.",
+            "e": "Argentina, Uruguai, Bolívia e Chile."
+          },
+          "resposta_correta": "a",
+          "tem_imagem": false
+        },
+        {
+          "questao": 4,
+          "texto_base": "A globalização promoveu a intensificação das relações econômicas, culturais e sociais entre as nações. No entanto, também gerou desigualdades.\n\nUm dos efeitos da globalização é:",
+          "alternativas": {
+            "a": "a homogeneização completa das culturas regionais.",
+            "b": "a redução dos fluxos migratórios internacionais.",
+            "c": "a intensificação da dependência econômica dos países periféricos.",
+            "d": "a eliminação das fronteiras políticas entre países.",
+            "e": "a estagnação tecnológica nas nações desenvolvidas."
+          },
+          "resposta_correta": "c",
+          "tem_imagem": false
+        },
+        {
+          "questao": 5,
+          "texto_base": "A agricultura familiar no Brasil desempenha papel fundamental na produção de alimentos e na geração de empregos no campo.\n\nEsse tipo de agricultura caracteriza-se principalmente por:",
+          "alternativas": {
+            "a": "alta mecanização e exportação em larga escala.",
+            "b": "uso intensivo de agrotóxicos e transgênicos.",
+            "c": "grande extensão territorial e baixa produtividade.",
+            "d": "produção voltada ao mercado interno e mão de obra familiar.",
+            "e": "predominância nas áreas urbanas e industriais."
+          },
+          "resposta_correta": "d",
+          "tem_imagem": false
+        },
+        {
+          "questao": 6,
+          "texto_base": "As áreas de clima equatorial apresentam elevadas temperaturas e altos índices pluviométricos durante o ano.\n\nEssas condições climáticas favorecem a existência de:",
+          "alternativas": {
+            "a": "formações vegetais xerófitas.",
+            "b": "florestas tropicais densas.",
+            "c": "desertos e estepes.",
+            "d": "campos limpos e cerrados.",
+            "e": "áreas de vegetação esparsa e seca."
+          },
+          "resposta_correta": "b",
+          "tem_imagem": false
+        },
+        {
+          "questao": 7,
+          "texto_base": "A industrialização brasileira ocorreu de forma tardia em relação a países desenvolvidos. No entanto, a partir do século XX, houve uma forte concentração industrial em algumas regiões.\n\nA região brasileira historicamente mais industrializada é:",
+          "alternativas": {
+            "a": "Norte.",
+            "b": "Centro-Oeste.",
+            "c": "Sul.",
+            "d": "Sudeste.",
+            "e": "Nordeste."
+          },
+          "resposta_correta": "d",
+          "tem_imagem": false
+        },
+        {
+          "questao": 8,
+          "texto_base": "O processo de migração do campo para a cidade é conhecido como êxodo rural.\n\nEntre os principais fatores que impulsionam esse movimento migratório estão:",
+          "alternativas": {
+            "a": "crescimento da atividade mineradora no campo.",
+            "b": "oferta de empregos urbanos e mecanização no campo.",
+            "c": "intensificação da pesca artesanal.",
+            "d": "redução da produção agrícola em áreas urbanas.",
+            "e": "avanço das queimadas urbanas."
+          },
+          "resposta_correta": "b",
+          "tem_imagem": false
+        },
+        {
+          "questao": 9,
+          "texto_base": "O Brasil possui grande diversidade de biomas. Um dos mais ameaçados atualmente, por causa da expansão agrícola e da pecuária, é o:",
+          "alternativas": {
+            "a": "Pantanal.",
+            "b": "Mata Atlântica.",
+            "c": "Caatinga.",
+            "d": "Pampa.",
+            "e": "Cerrado."
+          },
+          "resposta_correta": "e",
+          "tem_imagem": false
+        },
+        {
+          "questao": 10,
+          "texto_base": "As favelas são uma forma de ocupação urbana irregular, comum em várias cidades brasileiras.\n\nSua origem está relacionada principalmente à:",
+          "alternativas": {
+            "a": "migração internacional em massa.",
+            "b": "falta de infraestrutura portuária.",
+            "c": "política de incentivo à moradia popular.",
+            "d": "ausência de planejamento urbano e pobreza.",
+            "e": "redução dos investimentos industriais."
+          },
+          "resposta_correta": "d",
+          "tem_imagem": false
+        },
+        {
+          "questao": 11,
+          "texto_base": "Os impactos ambientais nas cidades incluem problemas como enchentes, ilhas de calor e poluição do ar.\n\nEsses problemas estão frequentemente ligados a:",
+          "alternativas": {
+            "a": "alta produção agrícola nas áreas urbanas.",
+            "b": "preservação da vegetação original.",
+            "c": "grande cobertura vegetal nas cidades.",
+            "d": "expansão urbana desordenada e impermeabilização do solo.",
+            "e": "migração do campo para a cidade com planejamento habitacional."
+          },
+          "resposta_correta": "d",
+          "tem_imagem": false
+        },
+        {
+          "questao": 12,
+          "texto_base": "A região Nordeste do Brasil enfrenta desafios como a escassez de água e a irregularidade das chuvas.\n\nA solução sustentável para o problema da seca nessa região inclui:",
+          "alternativas": {
+            "a": "remoção da vegetação da Caatinga.",
+            "b": "uso exclusivo de água subterrânea.",
+            "c": "construção de grandes usinas termelétricas.",
+            "d": "implantação de cisternas e manejo da água da chuva.",
+            "e": "canalização de rios para áreas urbanas."
+          },
+          "resposta_correta": "d",
+          "tem_imagem": false
+        }
+      ],
+      "Física": [
+        {
+          "questao": 1,
+          "texto_base": "Uma lâmpada elétrica possui potência de 60 W. Isso significa que:",
+          "alternativas": {
+            "a": "ela armazena 60 joules de energia elétrica.",
+            "b": "ela dissipa 60 joules de calor por segundo.",
+            "c": "ela consome 60 volts de tensão elétrica.",
+            "d": "ela produz 60 amperes de corrente elétrica.",
+            "e": "ela dissipa 60 ohms de resistência elétrica."
+          },
+          "resposta_correta": "b",
+          "tem_imagem": false
+        },
+        {
+          "questao": 2,
+          "texto_base": "Um corpo em repouso sobre uma superfície plana horizontal entra em movimento quando uma força é aplicada. Esse fenômeno é explicado pela:",
+          "alternativas": {
+            "a": "lei da conservação da energia.",
+            "b": "segunda lei de Newton.",
+            "c": "lei da gravitação universal.",
+            "d": "lei de Pascal.",
+            "e": "primeira lei da termodinâmica."
+          },
+          "resposta_correta": "b",
+          "tem_imagem": false
+        },
+        {
+          "questao": 3,
+          "texto_base": "A dilatação térmica dos materiais ocorre porque as partículas que os compõem se movimentam mais quando a temperatura aumenta. Um exemplo prático desse fenômeno é:",
+          "alternativas": {
+            "a": "a fusão do gelo ao sol.",
+            "b": "o aumento da resistência elétrica com o calor.",
+            "c": "a quebra de trilhos de trem em dias muito quentes.",
+            "d": "o funcionamento de uma lâmpada fluorescente.",
+            "e": "o congelamento da água."
+          },
+          "resposta_correta": "c",
+          "tem_imagem": false
+        },
+        {
+          "questao": 4,
+          "texto_base": "A energia cinética de um corpo está relacionada com sua massa e velocidade. Se a velocidade de um corpo dobrar, sua energia cinética:",
+          "alternativas": {
+            "a": "permanece constante.",
+            "b": "aumenta duas vezes.",
+            "c": "diminui pela metade.",
+            "d": "aumenta quatro vezes.",
+            "e": "diminui quatro vezes."
+          },
+          "resposta_correta": "d",
+          "tem_imagem": false
+        },
+        {
+          "questao": 5,
+          "texto_base": "A propagação do som no ar depende de fatores como temperatura e pressão. Em relação ao som, é correto afirmar que:",
+          "alternativas": {
+            "a": "não necessita de meio material para se propagar.",
+            "b": "propaga-se mais rapidamente no vácuo.",
+            "c": "propaga-se com maior velocidade em sólidos do que em gases.",
+            "d": "é uma onda eletromagnética.",
+            "e": "viaja mais rápido que a luz."
+          },
+          "resposta_correta": "c",
+          "tem_imagem": false
+        },
+        {
+          "questao": 6,
+          "texto_base": "Um espelho côncavo pode formar imagens ampliadas e invertidas de um objeto dependendo da posição do objeto em relação ao espelho. Esse princípio é utilizado em:",
+          "alternativas": {
+            "a": "lentes corretivas.",
+            "b": "microscópios eletrônicos.",
+            "c": "espelhos de maquiagem.",
+            "d": "câmeras de segurança.",
+            "e": "telescópios refratores."
+          },
+          "resposta_correta": "c",
+          "tem_imagem": false
+        },
+        {
+          "questao": 7,
+          "texto_base": "A força de atrito depende da natureza das superfícies em contato e da força normal. Ela atua no sentido:",
+          "alternativas": {
+            "a": "do movimento do corpo.",
+            "b": "do centro da Terra.",
+            "c": "oposto ao movimento relativo entre as superfícies.",
+            "d": "perpendicular à superfície de contato.",
+            "e": "da força aplicada ao corpo."
+          },
+          "resposta_correta": "c",
+          "tem_imagem": false
+        },
+        {
+          "questao": 8,
+          "texto_base": "A conservação da quantidade de movimento é observada em colisões. Quando dois corpos colidem e não há forças externas atuando, o momento total do sistema:",
+          "alternativas": {
+            "a": "aumenta.",
+            "b": "diminui.",
+            "c": "anula-se.",
+            "d": "permanece constante.",
+            "e": "é transferido apenas para o corpo de maior massa."
+          },
+          "resposta_correta": "d",
+          "tem_imagem": false
+        },
+        {
+          "questao": 9,
+          "texto_base": "A corrente elétrica em um fio condutor é formada pelo movimento ordenado de cargas elétricas. A unidade de corrente elétrica no Sistema Internacional é:",
+          "alternativas": {
+            "a": "volt.",
+            "b": "ohm.",
+            "c": "coulomb.",
+            "d": "ampère.",
+            "e": "watt."
+          },
+          "resposta_correta": "d",
+          "tem_imagem": false
+        },
+        {
+          "questao": 10,
+          "texto_base": "O efeito estufa é um fenômeno natural que mantém a temperatura média da Terra. No entanto, sua intensificação é causada principalmente pela emissão de:",
+          "alternativas": {
+            "a": "oxigênio e hidrogênio.",
+            "b": "ozônio e gás hélio.",
+            "c": "gás carbônico e metano.",
+            "d": "gás nobre e vapor d'água.",
+            "e": "aerosóis e poeira cósmica."
+          },
+          "resposta_correta": "c",
+          "tem_imagem": false
+        },
+        {
+          "questao": 11,
+          "texto_base": "A Lei de Ohm relaciona a tensão (U), a corrente (I) e a resistência (R) em um circuito elétrico. Se a tensão em um resistor de 10 ohms é de 20 volts, a corrente é:",
+          "alternativas": {
+            "a": "0,5 A.",
+            "b": "2 A.",
+            "c": "10 A.",
+            "d": "20 A.",
+            "e": "200 A."
+          },
+          "resposta_correta": "b",
+          "tem_imagem": false
+        },
+        {
+          "questao": 12,
+          "texto_base": "Um elevador de 500 kg sobe verticalmente com velocidade constante. A força exercida pelo motor do elevador é, em módulo, igual a:",
+          "alternativas": {
+            "a": "0 N, pois não há aceleração.",
+            "b": "menor que o peso do elevador.",
+            "c": "igual ao peso do elevador.",
+            "d": "maior que o peso do elevador.",
+            "e": "inversamente proporcional à massa."
+          },
+          "resposta_correta": "c",
+          "tem_imagem": false
+        }
+      ],
+      "História": [
+        {
+          "questao": 1,
+          "texto_base": "A Revolução Francesa foi um marco na história da humanidade por promover mudanças políticas, sociais e econômicas. Um dos principais lemas desse movimento foi:",
+          "alternativas": {
+            "a": "Paz, Terra e Pão.",
+            "b": "Independência ou Morte.",
+            "c": "Liberdade, Igualdade e Fraternidade.",
+            "d": "Unidade, Fé e Disciplina.",
+            "e": "Pátria, Família e Tradição."
+          },
+          "resposta_correta": "c",
+          "tem_imagem": false
+        },
+        {
+          "questao": 2,
+          "texto_base": "A escravidão foi uma prática comum durante o período colonial no Brasil. A principal mão de obra utilizada nas lavouras de cana-de-açúcar era composta por:",
+          "alternativas": {
+            "a": "indígenas europeus.",
+            "b": "trabalhadores assalariados.",
+            "c": "africanos escravizados.",
+            "d": "voluntários das metrópoles.",
+            "e": "imigrantes asiáticos."
+          },
+          "resposta_correta": "c",
+          "tem_imagem": false
+        },
+        {
+          "questao": 3,
+          "texto_base": "A Primeira Guerra Mundial (1914-1918) teve como causa principal:",
+          "alternativas": {
+            "a": "a corrida espacial entre EUA e URSS.",
+            "b": "o expansionismo napoleônico.",
+            "c": "o assassinato do arquiduque Francisco Ferdinando.",
+            "d": "a invasão da Polônia por Hitler.",
+            "e": "o bloqueio continental contra o Reino Unido."
+          },
+          "resposta_correta": "c",
+          "tem_imagem": false
+        },
+        {
+          "questao": 4,
+          "texto_base": "A Era Vargas (1930-1945) foi marcada por transformações políticas e sociais. Durante esse período, Getúlio Vargas:",
+          "alternativas": {
+            "a": "fortaleceu o liberalismo econômico.",
+            "b": "proibiu a criação de sindicatos.",
+            "c": "implantou o Estado Novo.",
+            "d": "fez campanha pela abolição da escravidão.",
+            "e": "criou o Plano Real."
+          },
+          "resposta_correta": "c",
+          "tem_imagem": false
+        },
+        {
+          "questao": 5,
+          "texto_base": "A Inconfidência Mineira foi um movimento de caráter:",
+          "alternativas": {
+            "a": "abolicionista e monarquista.",
+            "b": "republicano e separatista.",
+            "c": "religioso e reformista.",
+            "d": "federalista e conservador.",
+            "e": "socialista e internacionalista."
+          },
+          "resposta_correta": "b",
+          "tem_imagem": false
+        },
+        {
+          "questao": 6,
+          "texto_base": "A expansão marítima europeia, iniciada no século XV, foi motivada por vários fatores, entre os quais destaca-se:",
+          "alternativas": {
+            "a": "a fuga da peste bubônica.",
+            "b": "o desejo de conhecer novas culturas.",
+            "c": "a busca por especiarias e metais preciosos.",
+            "d": "a propagação da religião ortodoxa.",
+            "e": "a necessidade de colonizar o Japão."
+          },
+          "resposta_correta": "c",
+          "tem_imagem": false
+        },
+        {
+          "questao": 7,
+          "texto_base": "O Iluminismo foi um movimento intelectual que influenciou revoluções e reformas sociais no século XVIII. Seus principais valores eram:",
+          "alternativas": {
+            "a": "fé religiosa e absolutismo.",
+            "b": "razão, ciência e liberdade individual.",
+            "c": "tradição, família e propriedade.",
+            "d": "autoridade divina e centralização.",
+            "e": "mercantilismo e submissão ao rei."
+          },
+          "resposta_correta": "b",
+          "tem_imagem": false
+        },
+        {
+          "questao": 8,
+          "texto_base": "A Guerra Fria (1947-1991) foi caracterizada por:",
+          "alternativas": {
+            "a": "conflito direto entre URSS e EUA.",
+            "b": "disputas armadas no continente europeu.",
+            "c": "corrida armamentista e ideológica entre blocos.",
+            "d": "colonização da América do Sul.",
+            "e": "aliança entre capitalismo e socialismo."
+          },
+          "resposta_correta": "c",
+          "tem_imagem": false
+        },
+        {
+          "questao": 9,
+          "texto_base": "A Independência do Brasil, proclamada em 1822, teve como líder principal:",
+          "alternativas": {
+            "a": "Tiradentes.",
+            "b": "Dom Pedro I.",
+            "c": "José Bonifácio.",
+            "d": "Marechal Deodoro.",
+            "e": "Getúlio Vargas."
+          },
+          "resposta_correta": "b",
+          "tem_imagem": false
+        },
+        {
+          "questao": 10,
+          "texto_base": "Durante a Idade Média, o sistema feudal era caracterizado por:",
+          "alternativas": {
+            "a": "economia industrial e urbana.",
+            "b": "centralização do poder político.",
+            "c": "relações de suserania e vassalagem.",
+            "d": "livre comércio entre feudos.",
+            "e": "domínio do proletariado."
+          },
+          "resposta_correta": "c",
+          "tem_imagem": false
+        },
+        {
+          "questao": 11,
+          "texto_base": "O movimento das Diretas Já, ocorrido na década de 1980 no Brasil, tinha como objetivo:",
+          "alternativas": {
+            "a": "manter o regime militar no poder.",
+            "b": "instituir o parlamentarismo.",
+            "c": "realizar eleições diretas para presidente.",
+            "d": "criar um novo imposto sobre a renda.",
+            "e": "reduzir o número de partidos políticos."
+          },
+          "resposta_correta": "c",
+          "tem_imagem": false
+        },
+        {
+          "questao": 12,
+          "texto_base": "A abolição da escravatura no Brasil foi oficialmente decretada pela:",
+          "alternativas": {
+            "a": "Constituição de 1988.",
+            "b": "Lei do Ventre Livre.",
+            "c": "Lei Eusébio de Queirós.",
+            "d": "Lei Áurea.",
+            "e": "Lei de Terras."
+          },
+          "resposta_correta": "d",
+          "tem_imagem": false
+        }
+      ]     
+  }

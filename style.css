@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&family=Uncial+Antiqua&display=swap');
+
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Corpo da página */
+body {
+  font-family: 'Uncial Antiqua', 'MedievalSharp', serif;
+  background-color: #f5f0dc; /* tom de papiro */
+  color: #3e2f1c; /* marrom escuro */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 10px;
+  background-image: url('https://www.transparenttextures.com/patterns/paper-fibers.png');
+}
+
+/* Contadores e Layout dos Jogadores */
+.player {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+  text-align: center;
+  border: 2px dashed #a0825c;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 240, 0.8);
+  box-shadow: 2px 2px 4px rgba(60, 40, 20, 0.3);
+}
+
+h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-family: 'MedievalSharp', serif;
+}
+
+.score {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.controls {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 200px;
+}
+
+/* Botões */
+button {
+  font-size: 18px;
+  padding: 8px 12px;
+  background-color: #8b5e3c;
+  color: #fff5dc;
+  border: 2px solid #3e2f1c;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 48%;
+  margin: 5px;
+  font-family: 'MedievalSharp', serif;
+  box-shadow: inset 0 0 3px #00000066;
+  transition: background-color 0.2s ease;
+}
+
+button:hover {
+  background-color: #6e4625;
+}
+
+button:disabled {
+  background-color: #ccc;
+  border-color: #aaa;
+  cursor: not-allowed;
+}
+
+/* Botão para perguntar */
+#playBtn {
+  font-size: 22px;
+  padding: 15px 30px;
+  background-color: #3e2f1c;
+  color: #fff5dc;
+  margin-bottom: 30px;
+  border: 3px double #a0825c;
+}
+
+#playBtn:hover {
+  background-color: #2a1f14;
+}
+
+/* Popup da Pergunta */
+.popup {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(20, 10, 5, 0.7);
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.popup-content {
+  background-color: #fff8e1;
+  padding: 25px;
+  border-radius: 10px;
+  border: 3px ridge #a0825c;
+  max-width: 85%;
+  text-align: center;
+  font-family: 'Uncial Antiqua', serif;
+  box-shadow: 4px 4px 10px rgba(30, 20, 10, 0.5);
+}
+
+.popup-content p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.popup-content button {
+  background-color: #7b3e2e;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 6px;
+  color: #fff5dc;
+  border: 2px solid #3e2f1c;
+}
+
+.popup-content button:hover {
+  background-color: #5a2b1d;
+}
+
+/* Botão de reset no canto superior direito */
+#resetBtn {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  font-size: 16px;
+  background-color: #ad4e1d;
+  color: #fff0e0;
+  padding: 10px 20px;
+  border: 2px solid #3e2f1c;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: 'MedievalSharp', serif;
+}
+
+#resetBtn:hover {
+  background-color: #8d3c14;
+}
+
+/* Correto/Errado */
+.correct {
+  background-color: #5b8c3b !important;
+  color: white;
+}
+
+.wrong {
+  background-color: #a93f2b !important;
+  color: white;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .player {
+    margin-bottom: 15px;
+  }
+
+  .score {
+    font-size: 28px;
+  }
+
+  h2 {
+    font-size: 16px;
+  }
+
+  .controls {
+    flex-direction: column;
+  }
+
+  .controls button {
+    width: 100%;
+    margin: 5px 0;
+  }
+
+  #playBtn {
+    font-size: 18px;
+    padding: 12px 24px;
+  }
+
+  .popup-content {
+    max-width: 95%;
+  }
+}
+
+#logoText {
+  font-family: 'Georgia', serif;
+  font-size: 36px;
+  text-align: center;
+  margin: 20px auto 10px auto;
+  color: #3e2f1c; /* marrom antigo */
+  text-shadow: 1px 1px 0 #000000, 2px 2px 0 #00000020;
+  letter-spacing: 2px;
+}
+
+#logoText span {
+  font-weight: bold;
+  color: #8b0000; /* vermelho escuro para "Battle" */
+}
+
+@media (max-width: 480px) {
+  .score {
+    font-size: 24px;
+  }
+
+  .controls button {
+    font-size: 16px;
+    padding: 6px 12px;
+  }
+
+  #playBtn {
+    font-size: 16px;
+    padding: 10px 20px;
+  }
+
+  .popup-content button {
+    font-size: 14px;
+    padding: 8px 16px;
+  }
+}

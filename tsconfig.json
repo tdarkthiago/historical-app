@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "es6",  // ou "es2019"
+      "lib": ["es2019", "dom"],  // Adicione "es2019"
+      "module": "es6",
+      "outDir": "./dist",
+      "rootDir": "./",
+      "strict": true
+    },
+    "include": ["main.ts"]
+  }
+  
